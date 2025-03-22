@@ -2,7 +2,7 @@
 
 ## Cтек использованных технологий 
 
-<img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/langfr-800px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" height="40"/>
+<img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-512.png" height="40"/>
 
 ## Основные цели 
 
